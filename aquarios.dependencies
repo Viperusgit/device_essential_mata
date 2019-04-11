@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "aqua-devices/kernel_essential_msm8998",
+    "target_path": "kernel/essential/msm8998",
+    "branch": "a9-caf"
+  },
+  {
+    "repository": "aqua-devices/proprietary_vendor_essential",
+    "target_path": "vendor/essential",
+    "branch": "a9-caf"
+  }
+]
